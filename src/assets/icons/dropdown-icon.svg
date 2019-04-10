@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-tile" transform="translate(-119.000000, -141.000000)" fill="#004990">
+            <g id="search" transform="translate(0.000000, 90.000000)">
+                <g id="dropdown" transform="translate(32.000000, 38.000000)">
+                    <g id="Page-1" transform="translate(87.000000, 13.000000)">
+                        <path d="M12.3495,8.7755 L7.65025,8.7755 C7.12485,8.7755 6.87485,9.4005 7.24985,9.7755 L9.62485,12.1007 C9.84946,12.32531 10.22445,12.32531 10.45005,12.1007 L12.74985,9.750125 C13.12485,9.400525 12.84946,8.775525 12.34945,8.775525 L12.3495,8.7755 Z" id="Fill-1"></path>
+                        <path d="M10,0 C4.4745,0 0,4.4745 0,10 C0,15.5255 4.4745,20 10,20 C15.5255,20 20,15.5255 20,10 C20,4.4745 15.5255,0 10,0 Z M10,19 C5.0255,19 1,14.9745 1,10 C1,5.0255 5.0255,1 10,1 C14.9745,1 19,5.0255 19,10 C19,14.9745 14.9745,19 10,19 Z" id="Fill-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
